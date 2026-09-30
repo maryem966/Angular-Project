@@ -1,0 +1,12 @@
+{
+  "members": [
+    {
+      "id": "1245",
+      "cin": 1183027,
+      "name": "John",
+      "type": "teacher",
+      "createdDate": "2023-01-01"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
